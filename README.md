@@ -4,10 +4,10 @@
 对于使用 fcitx-rime 的小鹤音形用户来说，打字的候选窗通常是没有必要的，只有在使用通配符或查看各键位部件及小字根等需要候选窗显示内容时才需要开启候选窗。为了方便快速地开启或关闭打字候选窗，我简单地写了该脚本，如有需要它还可以配合桌面的全局快捷键使用。
 
 
-<detail>
+<details>
 <summary>Example</summary>
-![xhxy-hidden-typing-window](./assets/fcitx5-hidden-typing-windos-demo.gif)
-</detail>
+<img alt="" src="./assets/fcitx5-hidden-typing-windows-demo.gif"></img>
+</details>
 
 ### Usage
 
