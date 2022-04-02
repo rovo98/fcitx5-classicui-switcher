@@ -13,10 +13,10 @@
 
 ```sh
 # 1. clone this repo
-git clone https://github.com/rovo98/fcitx5-classicui-switch
+git clone https://github.com/rovo98/fcitx5-classicui-switcher
 
 # 2. execute install.sh to install 
-cd fcitx5-classicui-switch
+cd fcitx5-classicui-switcher
 ./install.sh
 
 # 3. Enjoy 
