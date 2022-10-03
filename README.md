@@ -28,3 +28,7 @@ fcitx5-classicui-switch or fcs
 
 对于隐藏打字的候选窗，通常有多种实现方案，如有将打字候选窗背景等一系列透明化、改 fcitx5 程序实现等。本脚本解决思路相对比较简单，直接利用 ``fcitx5--enable/--disable`` 配合``-r``来快速启用和停用 ``classicui`` 插件，从而达到隐藏打字候选窗的效果。
 
+#### Updated - Recommened solution
+
+在 [https://github.com/dcLunatic/fcitx5-rime](https://github.com/dcLunatic/fcitx5-rime) 中，根据小鹤音形的使用场景，对 fcitx-rime 进行了修改，
+增加了一个配置项，启用情况下会默认隐藏候选框，仅在使用通配符 \` 以及以 `o` 符号引导的编码才会显示候选框。该方案的实现效果已类似于 windows 下的官方小鹤音形输入法隐藏打字候选框的表现。非常推荐使用😊。
